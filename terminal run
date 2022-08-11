@@ -1,0 +1,8 @@
+/Users/peiwen/Desktop/clone/learning-warp-st/texture_rendering/examples/inputs/dali_melting_clock.png
+/Users/peiwen/Desktop/clone/learning-warp-st/texture_rendering/examples/inputs/clock.png
+
+
+save_folder = '/Users/peiwen/Desktop/clone/learning-warp-st/geometric_warping/save';
+
+
+./multi_scale_st.sh /Users/peiwen/Desktop/clone/learning-warp-st/texture_rendering/examples/inputs/dali_melting_clock.png /Users/peiwen/Desktop/clone/learning-warp-st/texture_rendering/examples/inputs/clock.png [weight]
